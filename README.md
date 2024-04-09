@@ -17,3 +17,8 @@ Welcome to the Number Guessing Game! This is a simple command-line game where yo
 
 # Authors
 Ayesha Waheed - Initial work
+
+## How to run
+install 
+```bash
+npm i number-guess-game-ayeshawaheed
